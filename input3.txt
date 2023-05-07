@@ -1,0 +1,549 @@
+Introduction
+    The Ministry comprises of six Departments                    due to ongoing geopolitical tensions and a slowdown in
+namely:—                                                         China have resulted in a downward revision of the real
+                                                                 GDP growth rate (as per SAE 2022-23) in comparison to
+          Department of Economic Affairs
+                                                                 the Real GDP growth rate forecasted in Economic Survey
+          Department of Expenditure                             2021-22.
+          Department of Revenue
+                                                                       On the demand side, private consumption has
+          Department of Investment and Public Asset             witnessed continued momentum. It is estimated to grow
+           Management                                            at 7.3 per cent in 2022-23 compared to 11.2 per cent in
+          Department of Financial Services                      2021-22, reflecting the rebound demand witnessed in the
+          Department of Public Enterprises                      current year on account of the release of pent-up demand
+                                                                 for contact-intensive services. Gross Fixed Capital
+                                                                 Formation (GFCF) is estimated to grow at 11.2 per cent
+1. Department of Economic Affairs
+                                                                 in 2022-23, supported by various reforms and measures
+Economic Growth                                                  taken by the Government leading to the reinvigoration of
+                                                                 the capex cycle and crowding-in of private investment.
+       The global economy was on the path of recovery            The government has continued to support the investment
+after waning of the COVID-19 pandemic until the Russia-          activity with capital expenditure reaching Rs. 5.7 lakh
+Ukraine conflict broke out in February 2022. The conflict        crore during April-January 2023, which is 29 per cent
+further disrupted the global supply chains and led to a          higher than last year's corresponding period. Private
+spike in prices of critical commodities, leading to uptick       investment also picked up in 2022-23, partially driven by
+in inflationary pressures. To restrain the consequent            increased public capex and because of the strengthening
+inflation, major central banks around the world undertook        of the balance sheets of the corporates and the
+monetary tightening resulting in tightening of financial         consequent increase in credit flow. Exports are estimated
+conditions. As a result, increased borrowing costs and           to grow at 11.5 per cent in 2022-23 despite sustained
+stubbornly high inflation is now getting reflected in multiple   supply chain disruptions and an uncertain geopolitical
+leading indicators of global economic activity. Global           environment. The share of exports in GDP (at 2011-12
+developments have posed downside risks to India's                prices) also increased to 23.1 per cent in 2022-23
+growth and overall macroeconomic stability as well. The          compared to 22.1 per cent in 2021-22.
+impact was seen in the first half of 2022-23, in the
+widening of the current account deficit (CAD), uptick in               On the supply side, agriculture, forestry and fishing
+retail inflation, the outflow of portfolio investments, and      continues to lend unwavering support to economic growth
+the appreciation of the US$ against the `. In the second         and are expected to witness YoY growth of 3.3 per cent
+half of 2022-23, retail inflation has fallen below the           in 2022-23. The growth in the agriculture sector is likely
+tolerance ceiling, portfolio investments have started to         to remain buoyant, supported by healthy progress in Rabi
+return, the ` has stabilized against the US$, but export         sowing. This has led to a recovery in the rural economy.
+growth has declined with the slowing of global growth.           The improvement in rural demand can be deduced from
+However, despite the unfavourable developments, as per           the robust domestic tractor, two and three-wheelers sales
+the latest IMF World Economic Outlook estimates, the             during Q3 of 2022-23. The industry sector is likely to
+Indian economy continues to be one of the fastest-               witness modest growth of 3.6 per cent in 2022-23
+growing major economies in 2022-23, which is a reflection        compared to strong growth of 11.6 per cent in 2021-22,
+of India's underlying economic resilience and strong             possibly because of input cost-push pressures, supply
+macroeconomic fundamentals.                                      chain disruptions and China lockdown affecting the
+                                                                 availability of essential inputs and slowing global
+      As per the Second Advance Estimates of National            economy. The services sector is expected to rebound
+Income, 2022-23 of the National Statistical Office (NSO),        with YoY growth of 9.4 per cent in 2022-23 compared to
+Ministry of Statistics and Programme Implementation              8.8 per cent in 2021-22, driven by a recovery of the
+(MoSPI), India's Real GDP and Nominal GDP are                    contact-intensive service sector (Trade, hotels, transport,
+projected to grow by 7 per cent (YoY) and 15.9 per cent          communication and services related to broadcasting)
+(YoY), respectively, in 2022-23. Persistently high inflation,    which is likely to witness the highest growth of 14.2 per
+tightening financial conditions, supply chain disruptions        cent on account of the release of pent-up demand.
+
+
+Industry                                                         2021-22 (April-December). The three broad sectors,
+                                                                 mining, manufacturing and electricity sectors registered
+      The performance of the industrial sectors based on
+                                                                 growth of 5.4 per cent, 4.8 per cent and 9.9 per cent
+the Index of Industrial Production (IIP) comprising mining,
+                                                                 respectively in 2022-23 (April-December) as against 16
+manufacturing and electricity sectors witnessed continued
+                                                                 per cent, 16.1 per cent and 9.4 per cent growth
+momentum during 2022-23 (April-December). According
+                                                                 respectively during the corresponding period last year.
+to the data on the IIP released by the National Statistical
+                                                                 In terms of used based grouping, except for Consumer
+Office (NSO) under the Ministry of Statistics and
+                                                                 Non-Durable Goods all subgroups witnessed positive
+Programme Implementation (MOSPI), the IIP based
+                                                                 growth during 2022-23 (April-December). The growth of
+industrial growth during 2022-23 (April-December), was
+                                                                 different sectors and used based industrial group is given
+5.4 per cent as compared to 15.3 per cent during the
+                                                                 below.
+
+
+                         Table: Growth of Index of Industrial Production (IIP) (in Per cent)
+
+                                                    (Base 2011-12=100)
+
+
+        Industry group                          Weight            2021-22       2021-22 (April-    2022-23 (April-
+                                                                                  December)          December)
+
+
+        Mining                                   14.37              12.2               16                 5.4
+
+
+        Manufacturing                            77.63              11.8              16.1                4.8
+
+
+        Electricity                               7.99              8.0               9.4                 9.9
+
+                                        Growth by used-based industrial group
+
+
+        Primary Goods                            34.04              9.6               11.8                7.8
+
+
+        Capital Goods                             8.22              17.0              24.3               14.1
+
+
+        Intermediate Goods                       17.22              15.4              20.8                4.5
+
+
+        Infrastructure/Construction              12.33              18.8              23.9                7.6
+        Goods
+
+
+        Consumer Durable Goods                   12.83              12.4              20.6                3.4
+
+
+        Consumer Non-Durable                     15.32              3.2               5.4                -1.2
+        Goods
+
+
+        General Index                             100               11.4              15.3                5.4
+
+        Source: NSO, MoSPI
+
+     The index for eight core industries comprising coal,        2021-22 (April-January). The acceleration in ICI is mainly
+crude oil, natural gas, refinery products, fertilizers, steel,   driven by double digit growth in coal, cement, electricity
+cement and electricity with a combined weight of nearly          and fertiliser subsectors. Except for crude oil, all sub-
+40 per cent in the IIP, registered growth of 7.9 per cent in     sectors registered positive growth during 2022-23 (April-
+2022-23 (April-January) compared to 11.6 per cent in             January).
+
+ viii
+                                                                                                                Introduction
+
+
+                                     Weight             2021-22              2021-22 (Apr-         2022-23 (Apr-
+                                                                                 Jan)                  Jan)
+
+         Coal                         10.33                  8.5                  10.3                  16.1
+
+         Crude Oil                     8.98                  -2.6                  -2.6                  -1.3
+
+         Natural Gas                   6.88                  19.2                 21.2                   1.4
+
+         Petroleum     Refinery       28.04                  8.9                   9.3                   5.4
+         Products
+
+         Fertilizers                   2.63                  0.7                   -0.3                 10.5
+
+         Steel                        17.92                  16.9                 19.9                   7.1
+
+         Cement                        5.37                  20.8                 24.7                  10.0
+
+         Electricity                  19.85                  8.0                   8.5                  10.1
+
+         Overall Growth Rate           100                   10.4                 11.6                   7.9
+
+        Source: Office of the Economic Adviser, DPIIT (Ministry of Commerce & Industry)
+
+Performance of the Banking Sector                              of SCBs has been rising sequentially in the post-asset
+                                                               quality review period. With a pick-up in lending activity
+     Since the middle of the previous decade, RBI and
+                                                               during H1:FY23, CRAR moderated in September 2022
+the Government have made dedicated efforts in terms of
+                                                               because of an increase in risk-weighted assets (RWAs).
+calibrated policy measures like strengthening the
+regulatory and supervisory framework, implementation           However, it remains well above the minimum capital
+of 4R's approach of Recognition, Resolution,                   requirement, including Capital Conservation Buffer (CCB)
+Recapitalisation and Reforms to clean and strengthen           requirements of 11.5 per cent.
+the balance sheet of the banking system. These                      During the first half of FY23, the profitability of SCBs,
+continuous efforts over the years have culminated in the       measured in terms of Return on Equity (ROE) and Return
+enhancement of risk absorption capacity and a healthier        on Assets (ROA), improved to levels last observed in
+banking system balance sheet both in terms of asset
+                                                               FY15. At the system level, Profit After Tax (PAT) witnessed
+quantity and quality over the years.
+                                                               a double-digit growth of 40.7 per cent in the quarter ending
+     Consequently, the asset quality of Scheduled              September 2022, led by strong growth in Net Interest
+Commercial Banks (SCBs) has been improving steadily            Income (NII) and a significant lowering of provisions.
+over the years across all major sectors. The Gross Non-        Macro-stress tests conducted by RBI for credit risk reveal
+Performing Assets (GNPA) ratio has decreased from 8.2          that SCBs are well-capitalised and that all banks would
+per cent in March 2020 to a seven-year low of 5.0 per          be able to comply with the minimum capital requirements
+cent in September 2022, while Net Non-Performing               even under adverse stress scenarios.
+Assets (NNPA) have dropped to a ten-year low of 1.3 per
+cent of total assets. Lower slippages and the reduction in     Credit Growth
+outstanding GNPAs through recoveries, upgrades and
+                                                                    The recovery in economic activity in FY22, along
+write-offs led to this decrease. Lower GNPAs, combined
+                                                               with the enhanced financial soundness of banks and
+with high provisions accumulated in recent years,
+                                                               corporates, has bolstered the expansion of non-food bank
+contributed to a decline in NNPA.
+                                                               credit since June 2021.The YoY growth in non-food bank
+    Moreover, with shrinking GNPAs, the Provisioning           credit accelerated to 16.7 per cent as on 27th January
+Coverage Ratio (PCR) has been increasing steadily since        2023. This not only shows an acceleration in the growth
+March 2021 and reached 71.6 per cent in September              of current economic activities but also an anticipation of
+2022. The Credit to Risk Weighted Asset Ratio (CRAR)           continued momentum in economic activity in future.
+
+                                                                                                                        ix
+Annual Report      2022-2023
+
+      Credit growth has been broad-based across sectors,          focused on the withdrawal of accommodation, while
+with retail credit driving the growth primarily owing to rising   supporting growth' in this meeting, signalling the start of
+demand for home loans. An increase in demand for                  the monetary tightening cycle.
+housing induces greater investment which, in turn, sets
+                                                                         Recognising the sizeable upside risk imparted by
+off a virtuous cycle of growth and investment. Credit to
+                                                                  adverse global developments, such as the generalised
+agriculture and allied activities gained momentum
+                                                                  hardening of commodity prices and an increased
+supported by the Government's concessional institutional
+                                                                  likelihood of prolonged supply chain disruptions, the MPC
+credit and higher agricultural credit target. Industrial credit
+                                                                  convened an off-cycle meeting in May 2022. Members
+growth has been buoyed by a pick-up in credit to MSMEs,
+                                                                  unanimously voted for an increase of 40 bps each in the
+assisted by the benefits accrued from the effective
+                                                                  policy repo rate, the SDF and the Marginal Standing
+implementation of the Emergency Credit Line Guarantee
+                                                                  Facility (MSF), and a 50-bps increase in the Cash
+Scheme (ECLGS) and the support provided by the
+                                                                  Reserve Ratio (CRR). Between May 2022 and February
+government's production-linked incentive scheme and
+                                                                  2023 and over six meetings, the MPC implemented a
+improvement in capacity utilisation. Credit growth in
+                                                                  cumulative hike of 250 bps each in the policy repo rate,
+services was driven by a recovery in credit to NBFCs,
+                                                                  the SDF, the MSF and the bank rate. In the initial phases
+commercial real estate and trade sectors.
+                                                                  of the tightening cycle, the committee noted that
+      With moderation in overseas issuances and lower             commodity price-driven inflationary pressures, increased
+investments by Private Equity (PE)/Venture Capital (VC),          volatility and initial signs of a slowdown in output
+the financing needs of the corporate sector are being             characterised the global outlook.
+met through domestic resources. As funds raised from
+the primary segment of domestic equity markets declined           Liquidity Conditions and its Management
+during FY23, reliance on bank credit for funding regular
+                                                                        Surplus liquidity conditions that prevailed post-
+operations and capacity expansion increased. Also, the
+                                                                  Covid-19 in response to the Reserve Bank's conventional
+Incremental Credit-Deposit ratio rose sharply both on an
+                                                                  and unconventional monetary measures moderated
+annual (122.0 per cent, YoY) and half-yearly basis (172.5
+                                                                  during FY23 in consonance with the changed monetary
+per cent; September 2022 over March 2022). The
+                                                                  policy stance that focused on the withdrawal of
+accumulation of deposits in the past few years has
+                                                                  accommodation. With the Marginal Standing Facility
+enabled banks to fund the growing credit demand. Here,
+                                                                  (MSF) rate retained at 25 bps above the policy repo rate,
+the well-capitalised banking system with a low NPA ratio
+                                                                  the Liquidity Adjustment Facility (LAF) corridor became
+and more robust corporate sector fundamentals will
+                                                                  symmetric around the policy repo rate - the corridor width
+continue to enhance the flow of bank credit into productive
+                                                                  was thus restored to 50 bps, the position that prevailed
+investment opportunities, notwithstanding the rising
+                                                                  before the pandemic. The RBI's move to hike the Cash
+interest rates.
+                                                                  Reserve Ratio (CRR) by 50 bps resulted in a withdrawal
+Monetary Developments                                             of primary liquidity to the tune of `87,000 crore from the
+                                                                  banking system.
+      The Monetary Policy Committee (MPC) maintained
+a status quo on the policy repo rate between May 2020                    The daily net liquidity absorption averaged `2.5 lakh
+and February 2022 after implementing a 115 basis points           crore during FY23 (up to 21 December 2022) as
+(bps) reduction between March 2020 and May 2020.                  compared with `6.7 lakh crore in FY22. The Reserve
+Retail inflation crossed the upper limit of RBI's tolerance       Bank remained nimble and agile in liquidity management
+band since January 2022. Sensing a serious risk to price          by conducting two-way operations. It injected liquidity to
+stability, RBI initiated the monetary tightening cycle. In its    assuage transient liquidity tightness through two variable
+April 2022 meeting, the committee introduced the                  rate repo (VRR) auctions of `50,000 crore each of 3 days
+Standing Deposit Facility (SDF), which allowed for the            and overnight maturity on 26th July and 22nd September
+deposit of excess funds by banks with the RBI without             2022, respectively. The gradual withdrawal of surplus
+the necessity of collateral in the form of government             liquidity pushed the weighted average call rate (WACR) -
+securities, thereby allowing effective liquidity                  the operating target of monetary policy - closer to the
+management in a collateral-free manner. The SDF,                  policy repo rate, on an average basis. The WACR traded
+introduced at a rate of 3.75 per cent, replaced the reverse       6 bps above the policy repo rate, on an average, during
+repo rate as the new floor of the Liquidity Adjustment            H2 (up to 21 December 2022) compared to 28 bps below
+Facility (LAF) corridor. The MPC also indicated a change          it during H1. Interest rates on various money market rates
+in stance from 'Accommodative' to 'Accommodative and              - 91-day Treasury Bills (T-Bills), 3-month certificates of
+
+
+  x
+                                                                                                             Introduction
+
+deposit and commercial papers - gradually firmed up in         private sector banks and 'others' were net buyers in the
+line with the increase in the repo rate.                       secondary market.
+
+     Lending and deposit rates of banks increased during       Services Sector
+FY23 in consonance with the policy repo rate changes.
+                                                                     The Covid-19 pandemic hurt most sectors of the
+During FY23 (up to December 2022), external
+                                                               economy, with the effect particularly profound for contact-
+benchmark-based lending rate and 1-year median
+                                                               intensive services sectors like tourism, retail trade, hotel,
+marginal cost of funds-based lending rate (MCLR)
+                                                               entertainment, and recreation. On the other hand, non-
+increased by 225 bps and 115 bps, respectively. Overall,
+                                                               contact services such as information, communication,
+the weighted average lending rate (WALR) on fresh and
+                                                               financial, professional, and business services remained
+outstanding rupee loans rose by 105 bps and 61 bps,
+                                                               resilient. However, the services sector witnessed a swift
+respectively, in FY23 (up to October 2022). On the deposit
+                                                               rebound in FY22, growing Year-on-Year (YoY) at 8.8 per
+side, the weighted average domestic term deposit rate
+                                                               cent compared to a contraction of 8.2 per cent in the
+(WADTDR) on fresh term deposits increased by 141 bps
+                                                               previous financial year. The improvement was driven by
+in FY23 (up to October 2022).
+                                                               growth in the 'Trade, Hotel, Transport, Storage,
+     An analysis of transmission across bank groups            Communication and Services related to broadcasting'
+during FY23 (up to October 2022) indicates that the            sub-sector, which bore the maximum burden of the
+increase in the WALRs on fresh loans was higher in the         pandemic. The growth momentum has continued in FY23
+case of public sector banks, while that of the WADTDR          as well. As per the Second Advance Estimates, Gross
+on outstanding deposits and WALR on outstanding loans          Value Added (GVA) in the services sector is estimated to
+was higher for private banks.                                  grow at 9.4 per cent in FY23, driven by 14.2 per cent
+                                                               growth in the contact-intensive services sector.
+Developments in the G-Sec Markets
+                                                                    Growth in the services sector in Q3 of 2022-23 is
+      After remaining steady through 2020 and 2021, the        led by an increasing contribution of the contact-intensive
+yield on the 10-year government bond rose in 2022. The         services sector (trade, hotel, transport, communication
+weighted average yield spike reflects the domestic bond        and services related to broadcasting) to real GVA, as the
+market volatility stemming from uncertainty in crude           removal of restrictions and near-universal vaccination
+prices, a hawkish stance of major central banks, a             coverage led to a shift in discretionary consumption
+hardening of global bond yield and the pressure on the         towards contact-intensive services with the release of
+rupee. The monthly average yield on the 10-year                pent-up demand.
+government bond stood at 7.35 per cent in February 2023
+                                                                    Bank credit to the services sector has witnessed
+after having peaked at 7.5 per cent in June 2022. Yields
+                                                               significant growth since October 2021 with the
+moderated in November and December 2022 following
+                                                               improvement in vaccination coverage and recovery in the
+smaller rate hikes by major central banks and declining
+                                                               services sector. The credit to services sector saw a YoY
+inflation. With the softening of yields, volatility also
+                                                               growth of 21.5 per cent in January 2023 compared to a
+declined in the second half of 2022.
+                                                               5.7 per cent growth in January 2022.
+     The trading volume in G-Secs (including T-Bills and
+                                                                     The World Investment Report 2022 of UNCTAD
+SDLs) reached a two-year high of `27.7 lakh crore during
+                                                               places India as the seventh largest recipient of FDI in the
+Q2 FY23, registering a YoY growth of 6.3 per cent. The
+                                                               top 20 host countries in 2021. In FY22 India received the
+higher trading volume reflects the growing interest of
+                                                               highest-ever FDI inflows of US$ 84.8 billion including US$
+market players/ traders in the government security
+                                                               7.1 billion FDI equity inflows in the services sector. To
+market.
+                                                               facilitate investment, various measures have been
+      Private Sector Banks emerged as the dominant             undertaken by the Government, such as the launch of
+trading segment in the secondary market during the             the National Single-Window system, a one-stop solution
+quarter under review, with a share of 25.0 per cent in         for approvals and clearances needed by investors,
+"Buy" deals and 24.8 per cent in "Sell" deals in the total     entrepreneurs, and businesses. To ensure the
+outright trading activity, followed by foreign banks, public   liberalization of investment in various industries, the
+sector banks, primary dealers and mutual fund. On a net        Government has permitted 100 per cent foreign
+basis, foreign banks and primary dealers were net sellers.     participation in telecommunication services, including all
+In contrast, public sector banks, cooperative banks,           services and infrastructure providers, through the
+financial institutions, insurance companies, mutual funds,     Automatic Route.
+
+                                                                                                                       xi
+Annual Report      2022-2023
+
+
+                                               Services sector performance
+
+
+                                         Share in GVA                                    Growth
+                                          (per cent)
+
+         Sector                              2022-23            2021-22       2022-23            Q1     Q2        Q3
+                                                                 st               nd
+                                            (2nd AE)            (1 RE)        (2       AE)
+
+         Total Services (Excluding
+                                               54.4               8.8              9.4           16.3   9.4       6.2
+         construction)
+
+         Trade, hotels, transport,
+         communication & services              19.1              13.8             14.2           25.7   15.6      9.7
+         related to broadcasting
+
+         Financial, real estate &
+                                               22.5               4.7              6.9           8.6    7.1       5.8
+         professional services
+
+         Public     administration,
+                                               12.8               9.7              7.1           21.3   5.6       2.0
+         defence & other services*
+
+           Source: Ministry of Statistics and Programme Implementation
+           Share in GVA is at Current Prices and growth in GVA is at Constant 2011-12 Prices
+           Other services include Education, Health, Recreation and other personal services
+           PE: Provisional Estimates. AE: Advance Estimates
+
+
+Agriculture and Food Management                               tonnes which is higher than the average Kharif food grain
+     The Indian agriculture sector grew by 3.0 per cent       production of the previous five years (2016-17 to 2020-
+in 2021-22 compared to 3.3 per cent in 2020- 21. As per       21). As per First Advance Estimates 2022-23 (kharif only)
+Fourth Advance Estimates for 2021-22, the production          the paddy area was about 3.8 lakh hectares less than
+of Foodgrains in the country is estimated at 315.72 million   the sown area of 411.2 lakh hectare during 2021-22 (kharif
+tonnes which is higher by 4.98 million tonnes than the        season). Further, in the current rabi season the area under
+production of foodgrain during 2020-21. The production        rabi paddy has expanded by 6.6 lakh hectares as
+during 2021-22 is higher by 25 million tonnes than the        compared to last year (Crop Weather Watch Group 12
+previous five years’ (2016-17 to 2020-21) average             January 2023). According to third advance estimates
+production of foodgrains. As per the First Advance            (2021-22), horticulture had a record production of 342.3
+Estimates for 2022-23 (Kharif only), total food grains        million tonnes in an area of 28.0 million hectares.
+production in the country is estimated at 149.9 million
+
+                                                                                   (Production in Million Tonnes)
+        Crops                         2017-18          2018-19          2019-20              2020-21    2021-22*
+        Rice                           112.76           116.48           118.87               124.37     130.29
+        Wheat                           99.87           103.60           107.86               109.59     106.84
+        Nutri/Coarse Cereals           46.97            43.06             47.75               51.32       50.90
+        Total Pulses                   25.42            22.08             23.03               25.46       27.69
+        Total Nine Oilseeds            31.46            31.52             33.22               35.95       37.70
+        Cotton #                       32.81            28.04             36.07               35.25       31.20
+            # Lakh bales of 170 kgs. Each
+            * 4th advance Estimates
+
+
+  xii
+                                                                                                               Introduction
+
+Livestock Sector is an important subsector of agriculture                  million tonnes of revenue-earning freight traffic
+in the Indian economy. It grew at a CAGR of 7.93 per                       (excluding KRCL).
+cent during 2014-15 to 2020-21 (at constant prices). As                   In the case of the civil aviation sector, the total
+per the estimates of National Accounts Statistics (NAS)                    number of passengers carried in December
+2020 for sector wise GVA of agriculture and allied sectors,                2022 stood at 150.1 lakh, which was 106.4 per
+the contribution of livestock in total agriculture and allied              cent of the pre-Covid level (average for 11
+sector GVA (at constant prices) has increased from 24.32                   months from April 2019 to February 2020).
+per cent (2014-15) to 30.13 per cent (2020-21).                            During November 2022, total air cargo tonnage
+                                                                           stood at 2.5 lakh MT, which is 89 per cent of
+      Dairy is the single largest agricultural commodity                   the pre-Covid levels.
+contributing 5 per cent of the national economy and
+employing more than 8 crore farmers directly. Milk                        The capacity of major ports, which was 871.5
+production in the country has grown at a compound                          Million Tonnes Per Annum (MTPA) at the end
+                                                                           of March 2014, has increased to 1534.9 MTPA
+annual growth rate of about 6.2 per cent to reach 209.96
+                                                                           by the end of March 2022. Cumulatively they
+million tonnes in 2020-21 from 146.31 million tonnes in
+                                                                           handled 720.1 MT traffic during FY 22.
+2014-15. Egg production in the country has increased
+from 78.48 billion in 2014-15 to 122.05 billion Nos. in                   The total telephone subscriber base in India
+2020-21. Meat production in the country has increased                      stands at 117 crore (as of November 2022).
+from 6.69 million tonnes in 2014-15 to 8.80 million tonnes                 More than 97 per cent of the total subscribers
+in 2020-21. The Fisheries sector plays an important role                   are connected wirelessly (114.3 crore at the end
+in the national economy with an estimated Gross Value                      of November 2022), and 83.7 crore have
+Added (GVA) at Rs. 1,37,716 Crores in 2020-2021. The                       internet connections as of June 2022.
+sector has reached record fish production of 16.25 MMT
+in 2021-22 (provisional) and has immense potential to            Social Sector
+grow further.
+                                                                      The Government's spending on social services1 has
+Infrastructure                                                   shown a rising trend since FY16 with a focus on many
+                                                                 aspects of the social well-being of citizens of the country.
+     Infrastructure plays a vital role in national integration   The share of expenditure on social services in the total
+and regional development. This includes roads, railways,         expenditure of the Government has been around 25 per
+airports, ports, mass transport, waterways and                   cent from FY18 to FY20. It increased to 26.6 per cent in
+telecommunications etc. Some of the achievements                 FY23 (BE). The social services expenditure witnessed
+under infrastructure development in India are as follows:        an increase of 8.4 per cent in FY21 over FY20 and another
+           There has been an increase in the construction       31.4 per cent increase in FY22 over FY21, being the
+                                                                 pandemic years, which required enhanced outlay,
+            of National Highways (NHs)/roads over time,
+                                                                 especially in the health2 and education3 sectors. While
+            with 10,457 km of roads constructed in FY 22
+                                                                 the social sector expenditure outlay of the Centre and
+            as compared to 6,061 km in FY1 6. In FY 23
+                                                                 State governments was `12.8 lakh crore in FY19, it has
+            (until October 2022), 4,060 km of NHs/roads
+                                                                 increased steadily to stand at `21.3 lakh crore in FY23
+            were constructed.                                    (BE).
+           During the current financial year, passenger rail
+                                                                 Labour Market
+            traffic has seen strong growth with the number
+            of originating passengers hitting 418.4 crore (up          As reported in annual PLFS4, labour markets have
+            to November 2022). In the case of revenue-           recovered beyond pre-Covid levels, in both urban and
+            earning freight traffic, during FY 22-23 (up to      rural areas, with unemployment rate (UR)5 (person age
+            November 2022), Indian Railways carried 976.8        15 years and above, as per usual status6) falling from
+
+1
+    Social services include education, sports, art, and culture; medical and public health, family welfare; water supply and
+    sanitation; housing; urban development; the welfare of SCs, STs and OBCs, labour and labour welfare; social security and
+    welfare, nutrition, relief on account of natural calamities, etc.
+2
+    Expenditure on ‘Health’ includes expenditure on ‘Medical and Public Health’, ‘Family Welfare’, and ‘Water Supply and
+    Sanitation.
+3
+    Expenditure on ‘Education’ pertains to expenditure on ‘Education, Sports, Arts, and culture.
+4
+    PLFS Survey year corresponds to July-June, For example, data for 2020-21 refers to the period July 2020-June 2021.
+5
+    UR is defined as the per centage of unemployed persons in the labour force.
+6
+    For a person to be categorised as employed as per usual status (ps+ss), he/she must have pursued and economic activity
+    for at least 30 days during the 365 days preceding the date of the survey.
+
+                                                                                                                        xiii
+Annual Report         2022-2023
+
+5.8 per cent in 2018-19 to 4.1 per cent in 2021-22, rise in           the key labour market indicators in the quarter ending
+labour force participation rate (LFPR)7 from 50.2 percent             December 2022 both sequentially and over the last year.
+in 2018-29 to 52.9 per cent in 2021-22 and rise in worker             The labour force participation rate increased to 48.2 per
+population ration (WPR)8 from 47.3 per cent in 2018-19                cent in October-December, 2022 from 47.3 per cent a
+to 52.9 per cent in 2021-22. Notably, there has been a                year ago, while the worker-population ratio strengthened
+significant rise in female LFPR from 24.5 per cent in                 from 43.2 per cent to 44.7 per cent in the same period.
+2018-19 to 32.8 percent in 2021-22.                                   The unemployment rate declined from 8.7 per cent in
+                                                                      October-December 2021 to 7.2 per cent in October-
+    The quarterly PLFS for urban areas (available till                December 2022. This trend highlights that labour markets
+October-December 2022) shows an improvement in all                    have recovered from the Covid impact.
+                                Quarterly Employment Indicators for age 15 years & above
+
+                      Quarters                          LFPR                         WPR                           UR
+
+             July-Sept, 2019                             47.3                         43.4                         8.3
+             Oct-Dec, 2019                               47.8                         44.1                         7.8
+
+             Jan-March, 2020                             48.1                         43.7                         9.1
+
+             April-June, 2020                            45.9                         36.4                        20.8
+             July-Sept, 2020                             47.2                         40.9                        13.2
+
+             Oct-Dec, 2020                               47.3                         42.4                        10.3
+
+             Jan-March, 2021                             47.5                         43.1                         9.3
+
+             Apr-Jun 2021                                46.8                         40.9                        12.6
+
+             July-Sept, 2021                             46.9                         42.3                         9.8
+
+             Oct-Dec 2021                                47.3                         43.2                         8.7
+
+             Jan-March, 2022                             47.3                         43.4                         8.2
+
+             Apr-Jun 2022                                47.5                         43.9                         7.6
+
+             July-Sept 2022                              47.9                         44.5                         7.2
+
+             Oct-Dec 2022                                48.2                         44.7                         7.2
+
+              Source: Quarterly PLFS reports
+
+       As per the Quarterly Employment Survey (QES) by                payroll addition, pointing towards improved formalisation
+the Labour Bureau, estimated total employment in the                  as economic activities picked up. The net addition in EPF
+fourth round (Q4 FY22) in the nine major sectors stood                subscriptions during FY22 was 58.7 per cent higher than
+at 3.2 crore in January to March 2022, which is nearly                in FY21 and 55.7 per cent higher than that in the pre-
+ten lakh higher than the estimated employment from the                pandemic year 2019. In FY23, net average monthly
+first round of QES (April-June 2021). The increase in                 subscribers added under. EPFO increased from 9.8 lakh
+estimates of workers from Q1FY22 to Q4FY22 was driven                 in April-December 2021 to 12.7 lakh in April-December
+by rising employment in sectors such as IT/BPO (by 17.6               2022.
+lakh), health (7.8 lakh), and education (1.7 lakh), due to
+rising digitisation and resurgence of services sector                 World Economic Development
+economy.
+
+<<END>>
